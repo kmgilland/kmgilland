@@ -19,7 +19,7 @@ I am a third-year Industrial Design & English student at the University of Notre
 
 ### Tech Toolbox 🛠️
 - **Languages:** Python, HTML, CSS
-- **Frameworks & Libraries:** PyGame, Pandas, Flask, Matplotlib
+- **Frameworks & Libraries:** NumPy, Pandas, Flask, Matplotlib, PyGame
 
 
 ### Education 🎓
@@ -27,4 +27,4 @@ I am a third-year Industrial Design & English student at the University of Notre
 - **Bachelors of Arts in English**, University of Notre Dame (projected graduation year: 2026)
 
 
-🔗 Let's ideate, innovate, and build new experiences together. Please reach out for potential collaborations or simply to chat!
+📨 Let's ideate, innovate, and build new experiences together. Please reach out for potential collaborations or simply to chat!

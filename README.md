@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hello, I'm Katherine!
 
-<!--
-**kmgilland/kmgilland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Industrial Designer with an interest in AI integration and data visualization
 
-Here are some ideas to get you started:
+📍 **Notre Dame, IN**  
+📧 **Email:** [kgilland@nd.edu](kgilland@nd.edu)  
+🔗 **LinkedIn:** [kmgilland](https://linkedin.com/in/kmgilland)  
+👨‍💻 **GitHub:** [kmgilland](https://github.com/kmgilland)  
+📐 **Behance:** [kmgilland](https://behance.net/kmgilland)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### About Me 🌐
+I am a third-year Industrial Design & English student at the University of Notre Dame. 
+
+
+### Professional Highlights 🌟
+- **Design Research Assistant** - University of Notre Dame Department of Art, Art History, and Design (2025 - Present)
+
+
+### Tech Toolbox 🛠️
+- **Languages:** Python, HTML, CSS
+- **Frameworks & Libraries:** PyGame, Pandas, Flask, Matplotlib
+
+
+### Education 🎓
+- **Bachelors of Arts in Industrial Design**, University of Notre Dame (projected graduation year: 2026)
+- **Bachelors of Arts in English**, University of Notre Dame (projected graduation year: 2026)
+
+
+🔗 Let's ideate, innovate, and build new experiences together. Please reach out for potential collaborations or simply to chat!

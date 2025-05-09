@@ -15,6 +15,7 @@ I am a third-year Industrial Design & English student, with a minor in Computing
 
 ### 🌟 Professional Highlights
 - **Design Research Assistant** - University of Notre Dame Department of Art, Art History, and Design (2025 - Present)
+- **Incoming UX Research Intern** - Tiffany & Co. (2025 - Present)
 
 
 ### 🎓 Education 
@@ -29,11 +30,14 @@ I am a third-year Industrial Design & English student, with a minor in Computing
 
 ### 🙏 Goals 
 - Grow more fluent in Python, especially through developing apps and data visualizations
-- Utilize machine learning techniques in a data science context
+- Utilize additional machine learning techniques in a data science context
 
 
-### 🖥️ Current Projects 
+### 🖥️ Finished Projects 
 - [EA Sports FC 25 - Female Players Explorer](https://github.com/kmgilland/GILLAND-Python-Portfolio/tree/main/basic_streamlit_app)
+- [Tidy Data Cleaning and Analysis](https://github.com/kmgilland/GILLAND-Python-Portfolio/tree/main/TidyData-Project)
+- [Named Entity Recognition (NER) App with Streamlit and spaCy](https://github.com/kmgilland/GILLAND-Python-Portfolio/tree/main/NERStreamlitApp)
+- [Blind Box Collector's Companion](https://github.com/kmgilland/GILLAND-Python-Portfolio/tree/main/StreamlitAppFinal)
 
 
 📨 Let's ideate, innovate, and build new experiences together. Please reach out for potential collaborations or simply to chat!

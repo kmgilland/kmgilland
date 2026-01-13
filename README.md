@@ -11,7 +11,7 @@
 
 
 ### 🌐 About Me
-I am a fourth-year Industrial Design & English student, with a minor in Computing & Digital Technologies, at the University of Notre Dame. 
+I am a fourth-year Industrial Design & English student, with a minor in Computing & Digital Technologies and a concentration in Artifical Intelligence, at the University of Notre Dame. 
 
 
 ### 🌟 Professional Highlights

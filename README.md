@@ -7,15 +7,16 @@
 🔗 **LinkedIn:** [kmgilland](https://linkedin.com/in/kmgilland)  
 👩‍💻 **GitHub:** [kmgilland](https://github.com/kmgilland)  
 📐 **Behance:** [kmgilland](https://behance.net/kmgilland)
+📒 **Behance:** [katherinemgilland.myportfolio.com](https://katherinemgilland.myportfolio.com/)
 
 
 ### 🌐 About Me
-I am a third-year Industrial Design & English student, with a minor in Computing & Digital Technologies, at the University of Notre Dame. 
+I am a fourth-year Industrial Design & English student, with a minor in Computing & Digital Technologies, at the University of Notre Dame. 
 
 
 ### 🌟 Professional Highlights
-- **Design Research Assistant** - University of Notre Dame Department of Art, Art History, and Design (2025 - Present)
-- **Incoming UX Research Intern** - Tiffany & Co. (2025 - Present)
+- **Design Research Assistant** - University of Notre Dame Department of Art, Art History, and Design (January 2025 - Present)
+- **UX Research Intern** - Tiffany & Co. (June 2025 - August 2025)
 
 
 ### 🎓 Education 

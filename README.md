@@ -6,8 +6,8 @@
 📧 **Email:** [kgilland@nd.edu](kgilland@nd.edu)  
 🔗 **LinkedIn:** [kmgilland](https://linkedin.com/in/kmgilland)  
 👩‍💻 **GitHub:** [kmgilland](https://github.com/kmgilland)  
-📐 **Behance:** [kmgilland](https://behance.net/kmgilland)
-📒 **Behance:** [katherinemgilland.myportfolio.com](https://katherinemgilland.myportfolio.com/)
+📐 **Behance:** [kmgilland](https://behance.net/kmgilland)  
+📒 **Portfolio:** [katherinemgilland.myportfolio.com](https://katherinemgilland.myportfolio.com/)  
 
 
 ### 🌐 About Me
